@@ -1,1 +1,1 @@
-# projects
+# mate-academy
